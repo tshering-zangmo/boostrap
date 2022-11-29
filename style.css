@@ -1,0 +1,189 @@
+#tshering{
+    color:midnightblue;
+    background-color: cornflowerblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    border-radius: 10%;
+}
+#tshering:hover{
+color: pink;
+}
+
+header img {
+    max-height: 90px;
+    width: 150px;
+    margin-right: 10px;
+    margin-left: 0;
+}
+h1:hover{
+    color: #ff0000;
+    text-shadow:  2px 3px 10px blue;
+}
+/* header at the top with the blog name and logo */
+header {
+    max-width: 100%;
+    background-color: #68a8ad;
+    padding: 20px;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#song{
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    padding-bottom: 3px;
+    border: 5px dotted lightsalmon;
+}
+
+#jinpa{
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    padding-bottom: 3px;
+    border: 5px solid lightcoral;
+}
+
+#sangay{
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    padding-bottom: 3px;
+    border: 5px dashed lightseagreen;
+}
+
+#moon{
+    color:maroon;
+    background-color:rgb(9, 189, 153);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center; 
+}
+
+#star{
+    color:rgb(22, 2, 68);
+    background-color:lightskyblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center; 
+}
+
+#gene{
+    color:rgb(248, 7, 135);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#gene:hover{
+color: black;
+}
+
+.cat{
+border-radius: 10px;
+border: 3px purple dotted;
+}
+
+.cat:hover{
+    color: firebrick;
+}
+
+body{
+    text-align: center;
+}
+
+.pet{
+    color:brown;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+.dot{
+    color:green;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+ .scene{
+    color:maroon;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.ice{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    padding-left: 800px;
+}
+
+container:hover{
+color: cyan;
+}
+
+.home{
+padding-right: 650px;
+color: green;
+font-size: 10px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+.home:hover{
+    color: deepskyblue;
+}
+
+
+
+.in{
+    color:rgb(7, 124, 220);
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.dropdown{
+    color:lightslategrey;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    box-shadow: 3px 3px 4px yellowgreen;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+li {
+   color:black;
+    display: inline-block;
+    margin: 0 0 0 20px;
+    cursor: pointer;
+    font-size: 2em;
+    font-weight: 700;
+    transition: 0.3s ease;
+}
+
+li:hover,
+li:active {
+    color: #FFD600;
+}
+
+.apple{
+    color:darkolivegreen;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center; 
+    border-radius: 50px;
+}
+.apple:hover{
+color: maroon;
+border: 3px 3px 4px lightseagreen;
+}
+
+#flower{
+    color:yellow;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center; 
+}
